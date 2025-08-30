@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # FastAPI backend URL
-API_URL = "http://127.0.0.1:8000"
+API_URL = "API_URL = "https://your-app.onrender.com""
 
 st.set_page_config(page_title="To-Do List", page_icon="📝", layout="centered")
 
